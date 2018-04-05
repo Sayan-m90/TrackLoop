@@ -616,7 +616,7 @@ int main( int argc, char *argv[] )
 					{
 						Edge< Kernel > &edge( **it_edge );
 						cout<<edge.a().index()<<" "<<edge.b().index()<<"...";
-						if((currentv1==edge.a() && currentv2==edge.b())||(currentv2==edge.a() && currentv1==edge.b()))
+						if((currentv1==edge.a().index() && currentv2==edge.b().index())||(currentv2==edge.a().index() && currentv1==edge.b().index()))
 							containsthisedge = true;
 						else containsthisedge = false;
 						interm.push_back(edge.a().index());
@@ -702,6 +702,7 @@ int main( int argc, char *argv[] )
 		// 	cout<<"got here";
 		// 	getchar();
 		// }
+
 		while (ss >> index)
 		{
 		simplex1.push_back(index);
@@ -712,6 +713,7 @@ int main( int argc, char *argv[] )
 		cout<<" vertices should already be inside. Error\n";
 		exit(0);
 		}
+		
 		if(simplex1.size()==2)
 		{
 			currentv1 = simplex1[0];
