@@ -1,0 +1,4 @@
+Complex.h:		std::vector< Edge< Kernel_ > * > m_image;
+Complex.h:		m_image.push_back( this );
+Complex.h:		return m_image;
+Complex.h:		return m_image;

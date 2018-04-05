@@ -1,0 +1,5 @@
+Total time: 0.002567s
+Simpers computation time: 6.1e-05s
+Max Complex Size: 19625200
+Cumulative Complex Size: 12
+Max Scale: 21

@@ -1,0 +1,6 @@
+Complex.h:		Vertex *m_p_image;
+Complex.h:		m_p_image = this;
+Complex.h:		m_p_image = this;
+Complex.h:		return *m_p_image;
+Complex.h:		return *m_p_image;
+Complex.h:		m_p_image = &image_;

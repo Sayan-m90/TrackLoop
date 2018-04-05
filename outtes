@@ -1,0 +1,875 @@
+Dim: 3 #Pt: 288 
+Short Loop Born: 312|simplex: 
+288 vertices
+24 edges
+0 triangles
+312 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000261s
+
+Number of components: 265
+
+Sampling simplicial complex...done in 6e-05s
+
+Basis rank: 1
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 1
+***************************************************
+23 canonical loops computed in 0.002768s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+1 independent loops computed in 0.00021s
+
+1 loops
+Loop 0 (24 edges, length=111.863):222 234...210 222...198 210...186 198...174 186...162 174...150 162...138 150...126 138...114 126...102 114...246 258...258 270...270 282...13 282...12 13...12 30...30 42...42 54...54 66...66 78...78 90...90 102...234 246...
+
+Destroying simplicial complex...done in 4.4e-05s
+Short Loop Born: 359|simplex: 
+288 vertices
+71 edges
+0 triangles
+359 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000243s
+
+Number of components: 219
+
+Sampling simplicial complex...done in 5.2e-05s
+
+Basis rank: 2
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 2
+***************************************************
+46 canonical loops computed in 0.003244s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+2 independent loops computed in 0.000323s
+
+2 loops
+Loop 0 (24 edges, length=111.863):258 270...246 258...234 246...222 234...210 222...198 210...186 198...174 186...162 174...150 162...138 150...126 138...13 282...12 13...12 30...30 42...42 54...54 66...66 78...78 90...90 102...102 114...114 126...270 282...
+Loop 1 (24 edges, length=121.189):185 197...173 185...161 173...149 161...137 149...125 137...113 125...101 113...89 101...77 89...65 77...209 221...221 233...233 245...245 257...257 269...269 281...11 281...10 11...10 29...29 41...41 53...53 65...197 209...
+
+Destroying simplicial complex...done in 5.5e-05s
+Short Loop Born: 360|simplex: 
+288 vertices
+72 edges
+0 triangles
+360 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000264s
+
+Number of components: 219
+
+Sampling simplicial complex...done in 4.3e-05s
+
+Basis rank: 3
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 3
+***************************************************
+69 canonical loops computed in 0.003396s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+3 independent loops computed in 0.00037s
+
+3 loops
+Loop 0 (24 edges, length=111.863):12 13...12 30...30 42...42 54...54 66...66 78...78 90...90 102...102 114...114 126...126 138...270 282...258 270...246 258...234 246...222 234...210 222...198 210...186 198...174 186...162 174...150 162...138 150...13 282...
+Loop 1 (24 edges, length=121.189):187 199...175 187...163 175...151 163...139 151...127 139...115 127...103 115...91 103...79 91...67 79...211 223...223 235...235 247...247 259...259 271...271 283...15 283...14 15...14 31...31 43...43 55...55 67...199 211...
+
+Destroying simplicial complex...done in 5.3e-05s
+Short Loop Born: 516|simplex: 
+288 vertices
+228 edges
+0 triangles
+516 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000178s
+
+Number of components: 64
+
+Sampling simplicial complex...done in 2.9e-05s
+
+Basis rank: 4
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 4
+***************************************************
+390 canonical loops computed in 0.005075s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+4 independent loops computed in 0.000326s
+
+4 loops
+Loop 0 (24 edges, length=111.863):222 234...210 222...198 210...186 198...174 186...162 174...150 162...138 150...126 138...114 126...102 114...246 258...258 270...270 282...13 282...12 13...12 30...30 42...42 54...54 66...66 78...78 90...90 102...234 246...
+Loop 1 (24 edges, length=121.189):185 197...173 185...161 173...149 161...137 149...125 137...113 125...101 113...89 101...77 89...65 77...209 221...221 233...233 245...245 257...257 269...269 281...11 281...10 11...10 29...29 41...41 53...53 65...197 209...
+Loop 2 (24 edges, length=121.189):187 199...175 187...163 175...151 163...139 151...127 139...115 127...103 115...91 103...79 91...67 79...211 223...223 235...235 247...247 259...259 271...271 283...15 283...14 15...14 31...31 43...43 55...55 67...199 211...
+Loop 3 (26 edges, length=128.029):223 235...211 223...199 211...187 199...175 187...163 175...151 163...150 151...150 162...162 174...174 186...186 198...247 259...259 271...271 283...15 283...13 15...13 282...270 282...258 270...246 258...234 246...222 234...210 222...198 210...235 247...
+
+Destroying simplicial complex...done in 4.5e-05s
+Short Loop Born: 518|simplex: 
+288 vertices
+230 edges
+0 triangles
+518 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000127s
+
+Number of components: 63
+
+Sampling simplicial complex...done in 2.3e-05s
+
+Basis rank: 5
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 5
+***************************************************
+502 canonical loops computed in 0.005774s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+5 independent loops computed in 0.000576s
+
+5 loops
+Loop 0 (14 edges, length=69.7655):163 175...151 163...150 151...150 162...162 174...174 186...186 198...187 199...199 211...211 223...222 223...210 222...198 210...175 187...
+
+Destroying simplicial complex...done in 4.9e-05s
+Short Loop Born: 519|simplex: 
+288 vertices
+231 edges
+0 triangles
+519 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000127s
+
+Number of components: 63
+
+Sampling simplicial complex...done in 2.2e-05s
+
+Basis rank: 6
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 6
+***************************************************
+614 canonical loops computed in 0.006569s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+6 independent loops computed in 0.00122s
+
+6 loops
+Loop 0 (14 edges, length=69.7655):163 175...151 163...150 151...150 162...162 174...174 186...186 198...187 199...199 211...211 223...222 223...210 222...198 210...175 187...
+Loop 1 (14 edges, length=69.7656):258 270...246 258...234 246...222 234...222 223...223 235...235 247...13 282...13 15...15 283...271 283...259 271...247 259...270 282...
+
+Destroying simplicial complex...done in 5.3e-05s
+Short Loop Born: 525|simplex: 
+288 vertices
+237 edges
+0 triangles
+525 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000119s
+
+Number of components: 58
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 7
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 7
+***************************************************
+1225 canonical loops computed in 0.011166s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+7 independent loops computed in 0.00252s
+
+7 loops
+Loop 0 (14 edges, length=69.7655):163 175...151 163...150 151...150 162...162 174...174 186...186 198...187 199...199 211...211 223...222 223...210 222...198 210...175 187...
+Loop 1 (14 edges, length=69.7656):258 270...246 258...234 246...222 234...222 223...223 235...235 247...13 282...13 15...15 283...271 283...259 271...247 259...270 282...
+Loop 2 (14 edges, length=69.7657):103 115...91 103...79 91...78 79...78 90...90 102...102 114...127 139...139 151...150 151...138 150...126 138...114 126...115 127...
+
+Destroying simplicial complex...done in 7.5e-05s
+Short Loop Born: 526|simplex: 
+288 vertices
+238 edges
+0 triangles
+526 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000133s
+
+Number of components: 58
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 8
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 8
+***************************************************
+1400 canonical loops computed in 0.013248s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+8 independent loops computed in 0.003529s
+
+8 loops
+Loop 0 (14 edges, length=69.7655):163 175...151 163...150 151...150 162...162 174...174 186...186 198...187 199...199 211...211 223...222 223...210 222...198 210...175 187...
+Loop 1 (14 edges, length=69.7656):258 270...246 258...234 246...222 234...222 223...223 235...235 247...13 282...13 15...15 283...271 283...259 271...247 259...270 282...
+Loop 2 (14 edges, length=69.7657):91 103...79 91...78 79...78 90...90 102...102 114...114 126...115 127...127 139...139 151...150 151...138 150...126 138...103 115...
+Loop 3 (14 edges, length=69.7657):89 101...77 89...77 78...78 90...90 102...102 114...114 126...113 125...125 137...137 149...149 150...138 150...126 138...101 113...
+
+Destroying simplicial complex...done in 9.9e-05s
+Short Loop Born: 528|simplex: 
+288 vertices
+240 edges
+0 triangles
+528 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000125s
+
+Number of components: 57
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 9
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 9
+***************************************************
+1602 canonical loops computed in 0.016367s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+9 independent loops computed in 0.002054s
+
+9 loops
+Loop 0 (14 edges, length=69.7655):163 175...151 163...150 151...150 162...162 174...174 186...186 198...187 199...199 211...211 223...222 223...210 222...198 210...175 187...
+Loop 1 (14 edges, length=69.7655):150 162...149 150...149 161...161 173...173 185...185 197...174 186...186 198...198 210...210 222...221 222...209 221...197 209...162 174...
+
+Destroying simplicial complex...done in 0.000113s
+Short Loop Born: 529|simplex: 
+288 vertices
+241 edges
+0 triangles
+529 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000128s
+
+Number of components: 57
+
+Sampling simplicial complex...done in 2.2e-05s
+
+Basis rank: 10
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 10
+***************************************************
+1780 canonical loops computed in 0.019715s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+10 independent loops computed in 0.001479s
+
+10 loops
+Loop 0 (4 edges, length=21.213):78 90...78 79...79 91...90 91...
+
+Destroying simplicial complex...done in 0.000114s
+Short Loop Born: 530|simplex: 
+288 vertices
+242 edges
+0 triangles
+530 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.00013s
+
+Number of components: 57
+
+Sampling simplicial complex...done in 3.5e-05s
+
+Basis rank: 11
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 11
+***************************************************
+1958 canonical loops computed in 0.024888s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+11 independent loops computed in 0.002774s
+
+11 loops
+Loop 0 (4 edges, length=21.213):210 211...210 222...222 223...211 223...
+
+Destroying simplicial complex...done in 0.00024s
+Short Loop Born: 531|simplex: 
+288 vertices
+243 edges
+0 triangles
+531 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000125s
+
+Number of components: 57
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 12
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 12
+***************************************************
+2136 canonical loops computed in 0.03034s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+12 independent loops computed in 0.003072s
+
+12 loops
+Loop 0 (4 edges, length=21.213):210 222...222 223...211 223...210 211...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 282...13 15...15 283...282 283...
+
+Destroying simplicial complex...done in 0.00013s
+Short Loop Born: 532|simplex: 
+288 vertices
+244 edges
+0 triangles
+532 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000134s
+
+Number of components: 57
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 13
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 13
+***************************************************
+2314 canonical loops computed in 0.036461s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+13 independent loops computed in 0.004312s
+
+13 loops
+Loop 0 (4 edges, length=21.213):210 222...222 223...211 223...210 211...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 15...282 283...13 282...15 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+
+Destroying simplicial complex...done in 0.00014s
+Short Loop Born: 538|simplex: 
+288 vertices
+250 edges
+0 triangles
+538 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000126s
+
+Number of components: 52
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 14
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 14
+***************************************************
+2590 canonical loops computed in 0.045946s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+14 independent loops computed in 0.005909s
+
+14 loops
+Loop 0 (4 edges, length=21.213):210 211...210 222...222 223...211 223...
+Loop 1 (4 edges, length=21.213):78 90...78 79...79 91...90 91...
+Loop 2 (4 edges, length=21.213):13 15...282 283...13 282...15 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):77 89...78 90...77 78...89 90...
+
+Destroying simplicial complex...done in 0.000162s
+Short Loop Born: 539|simplex: 
+288 vertices
+251 edges
+0 triangles
+539 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000127s
+
+Number of components: 52
+
+Sampling simplicial complex...done in 2e-05s
+
+Basis rank: 15
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 15
+***************************************************
+2775 canonical loops computed in 0.059948s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+15 independent loops computed in 0.008636s
+
+15 loops
+Loop 0 (4 edges, length=21.213):210 211...222 223...210 222...211 223...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 15...282 283...13 282...15 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+
+Destroying simplicial complex...done in 0.000169s
+Short Loop Born: 540|simplex: 
+288 vertices
+252 edges
+0 triangles
+540 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000123s
+
+Number of components: 52
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 16
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 16
+***************************************************
+2960 canonical loops computed in 0.071787s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+16 independent loops computed in 0.011565s
+
+16 loops
+Loop 0 (4 edges, length=21.213):210 222...210 211...211 223...222 223...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 282...13 15...15 283...282 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+Loop 5 (4 edges, length=21.213):77 78...78 90...89 90...77 89...
+Loop 6 (4 edges, length=21.213):11 13...13 282...281 282...11 281...
+
+Destroying simplicial complex...done in 0.000183s
+Short Loop Born: 541|simplex: 
+288 vertices
+253 edges
+0 triangles
+541 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.00013s
+
+Number of components: 52
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 17
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 17
+***************************************************
+3145 canonical loops computed in 0.08697s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+17 independent loops computed in 0.015531s
+
+17 loops
+Loop 0 (4 edges, length=21.213):210 222...222 223...211 223...210 211...
+Loop 1 (4 edges, length=21.213):78 90...78 79...79 91...90 91...
+Loop 2 (4 edges, length=21.213):13 282...13 15...15 283...282 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+Loop 5 (4 edges, length=21.213):77 89...78 90...89 90...77 78...
+Loop 6 (4 edges, length=21.213):11 281...13 282...11 13...281 282...
+Loop 7 (4 edges, length=21.213):149 161...150 162...149 150...161 162...
+
+Destroying simplicial complex...done in 0.000194s
+Short Loop Born: 545|simplex: 
+288 vertices
+257 edges
+0 triangles
+545 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000131s
+
+Number of components: 49
+
+Sampling simplicial complex...done in 2.1e-05s
+
+Basis rank: 18
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 18
+***************************************************
+3402 canonical loops computed in 0.104486s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+18 independent loops computed in 0.021247s
+
+18 loops
+Loop 0 (4 edges, length=21.213):210 211...222 223...210 222...211 223...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 15...13 282...282 283...15 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+Loop 5 (4 edges, length=21.213):77 89...78 90...89 90...77 78...
+Loop 6 (4 edges, length=21.213):11 281...13 282...11 13...281 282...
+Loop 7 (4 edges, length=21.213):149 150...150 162...161 162...149 161...
+Loop 8 (8 edges, length=40.6341):42 54...54 66...66 78...78 79...43 55...55 67...67 79...42 43...
+
+Destroying simplicial complex...done in 0.000264s
+Short Loop Born: 548|simplex: 
+288 vertices
+260 edges
+0 triangles
+548 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000126s
+
+Number of components: 47
+
+Sampling simplicial complex...done in 2e-05s
+
+Basis rank: 19
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 19
+***************************************************
+3648 canonical loops computed in 0.125385s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+19 independent loops computed in 0.026278s
+
+19 loops
+Loop 0 (4 edges, length=21.213):210 222...222 223...211 223...210 211...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 282...13 15...15 283...282 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+Loop 5 (4 edges, length=21.213):77 78...89 90...78 90...77 89...
+Loop 6 (4 edges, length=21.213):11 13...13 282...281 282...11 281...
+Loop 7 (4 edges, length=21.213):149 150...150 162...161 162...149 161...
+Loop 8 (4 edges, length=21.2131):12 13...13 15...14 15...12 14...
+
+Destroying simplicial complex...done in 0.000273s
+Short Loop Born: 552|simplex: 
+288 vertices
+264 edges
+0 triangles
+552 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000126s
+
+Number of components: 44
+
+Sampling simplicial complex...done in 2e-05s
+
+Basis rank: 20
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 20
+***************************************************
+3880 canonical loops computed in 0.150879s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+20 independent loops computed in 0.034554s
+
+20 loops
+Loop 0 (4 edges, length=21.213):210 222...222 223...211 223...210 211...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 15...13 282...282 283...15 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+Loop 5 (4 edges, length=21.213):77 89...78 90...89 90...77 78...
+Loop 6 (4 edges, length=21.213):11 281...13 282...11 13...281 282...
+Loop 7 (4 edges, length=21.213):149 150...161 162...150 162...149 161...
+Loop 8 (4 edges, length=21.2131):12 13...12 14...14 15...13 15...
+Loop 9 (6 edges, length=30.9236):259 271...258 259...282 283...270 282...258 270...271 283...
+
+Destroying simplicial complex...done in 0.000286s
+Short Loop Born: 553|simplex: 
+288 vertices
+265 edges
+0 triangles
+553 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000129s
+
+Number of components: 44
+
+Sampling simplicial complex...done in 2e-05s
+
+Basis rank: 21
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 21
+***************************************************
+4074 canonical loops computed in 0.178902s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+21 independent loops computed in 0.043355s
+
+21 loops
+Loop 0 (4 edges, length=21.213):210 211...222 223...210 222...211 223...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 282...282 283...15 283...13 15...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 210...210 222...221 222...209 221...
+Loop 5 (4 edges, length=21.213):77 89...78 90...89 90...77 78...
+Loop 6 (4 edges, length=21.213):11 13...13 282...281 282...11 281...
+Loop 7 (4 edges, length=21.213):149 161...150 162...161 162...149 150...
+Loop 8 (4 edges, length=21.2131):12 13...13 15...14 15...12 14...
+Loop 9 (4 edges, length=21.2131):66 67...66 78...78 79...67 79...
+
+Destroying simplicial complex...done in 0.000285s
+Short Loop Born: 554|simplex: 
+288 vertices
+266 edges
+0 triangles
+554 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000128s
+
+Number of components: 44
+
+Sampling simplicial complex...done in 2e-05s
+
+Basis rank: 22
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 22
+***************************************************
+4268 canonical loops computed in 0.206617s
+
+Computing independent loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+22 independent loops computed in 0.052131s
+
+22 loops
+Loop 0 (4 edges, length=21.213):210 222...222 223...211 223...210 211...
+Loop 1 (4 edges, length=21.213):78 90...90 91...79 91...78 79...
+Loop 2 (4 edges, length=21.213):13 15...13 282...282 283...15 283...
+Loop 3 (4 edges, length=21.213):150 151...162 163...150 162...151 163...
+Loop 4 (4 edges, length=21.213):209 221...210 222...209 210...221 222...
+Loop 5 (4 edges, length=21.213):77 89...78 90...77 78...89 90...
+Loop 6 (4 edges, length=21.213):11 13...13 282...281 282...11 281...
+Loop 7 (4 edges, length=21.213):149 161...150 162...161 162...149 150...
+Loop 8 (4 edges, length=21.2131):12 14...13 15...12 13...14 15...
+Loop 9 (4 edges, length=21.2131):222 223...222 234...234 235...223 235...
+
+Destroying simplicial complex...done in 0.000399s
+Short Loop Born: 555|simplex: 
+288 vertices
+267 edges
+0 triangles
+555 simplices total
+
+Processing simplicial complex...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done in 0.000129s
+
+Number of components: 44
+
+Sampling simplicial complex...done in 2e-05s
+
+Basis rank: 23
+
+Computing canonical loops...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+compute basis: 23
+***********************************************

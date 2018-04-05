@@ -1,0 +1,6 @@
+ ./trackLoop -i input/spherepts.txt -s input/sphere_pers -r input/sphere_loops.off -f input/spherefilt.txt -b 1425 -d 4266
+./trackLoop -i input/tryypts.txt -s input/tryy_pers -r input/tryy_loops.off -f input/Oracle_in1.txt -b 31 -d 36
+./trackLoop -i input/r2pts.txt -s input/r2_pers -r input/r2_loops.off -f input/r2filt.txt -b 1459 -d 1461
+./trackLoop -i input/snub_cubepts.txt -s input/snub_pers -r input/snub_loops.off -f input/snub_cubefilt.txt -b 70 -d 77
+./trackLoop -i input/biggerlooppts.txt -s input/bg_pers -r input/bg_loops.off -f input/biggerloopfilt.txt -b 10 -d 25
+
