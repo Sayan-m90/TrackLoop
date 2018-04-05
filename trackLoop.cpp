@@ -272,7 +272,7 @@ void loopPrinting( std::map<int,higherPoint> vloop_all, std::string loops_folder
 	// }
 	// chmod("./myfile", S_IRWXU);
 	higherOrder vInd;
-	int count = 0;
+	
 	// for(int l1=0;l1<vloop.size();l1++)
 	for(std::map<int,higherPoint>::iterator iter = vloop_all.begin(); iter != vloop_all.end(); ++iter)
 	{
@@ -284,6 +284,7 @@ void loopPrinting( std::map<int,higherPoint> vloop_all, std::string loops_folder
 		cout<<"OFF folder:"<<file<<"\n";
 		ofstream ofloop(file.c_str());
 		ofloop<<"OFF"<<std::endl<<vloop.size()*4<<" "<<vloop.size()<<" 0\n";
+		int count = 0;
 		for(int l2=0;l2<vloop.size();l2++){
 			// if(vloop[l1][l2][0].size()!=3 || vloop[l1][l2][1].size()!=3){
 			// cout<<"Cannot print loop, not 3D";
@@ -306,12 +307,14 @@ void loopPrinting( std::map<int,higherPoint> vloop_all, std::string loops_folder
 
 		for(int ed=0;ed<vInd.size();ed++)
 		{
-			ofloop<<"4 "<<vInd[ed][0]<<" "<<vInd[ed][1]<<" "<<vInd[ed][2]<<" "<<vInd[ed][3]<<std::endl;
+			ofloop<<"4 "<<vInd[ed][0]<<" "<<vInd[ed][1]<<" "<<vInd[ed][2]<<" "<<vInd[ed][3]<<" 1.0 1.0 0.0"<<std::endl;
 		}
+
 		ofloop.close();
 		vInd.clear();
 
 	}
+	// count = 0;
 
 	
 }
@@ -491,6 +494,7 @@ int main( int argc, char *argv[] )
 	
 	bool bornflag = false;
 	bool deadflag = false;
+	int currentv1=-1,currentv2=-1;
     while (!ff.eof())	
     {
 
@@ -500,7 +504,7 @@ int main( int argc, char *argv[] )
 		// }
 
     	char sLine[256]="";
-    	int currentv1=-1,currentv2=-1;
+
     	ff.getline(sLine, 256);
     	// cout<<"sLine:"<<sLine<<"\n";
     	if(sLine[0]=='c'||strlen(sLine)==0)
@@ -599,6 +603,7 @@ int main( int argc, char *argv[] )
 				//Find which loop is born here
 				higherOrder simp2;
 				higherPoint vP;
+				cout<<"currents: "<<currentv1<<" "<<currentv2<<std::endl;
 				for ( unsigned i( 0 ); i != complex.basis_rank(); ++i )
 				{
 
@@ -611,14 +616,14 @@ int main( int argc, char *argv[] )
 					std::vector<int> interm;
 					std::vector<std::vector<float>> vP2;
 					// getchar();
-					bool containsthisedge=true;
+					bool containsthisedge = false;
 					for ( ; it_edge != basis_loop.end(); ++it_edge )
 					{
 						Edge< Kernel > &edge( **it_edge );
 						cout<<edge.a().index()<<" "<<edge.b().index()<<"...";
 						if((currentv1==edge.a().index() && currentv2==edge.b().index())||(currentv2==edge.a().index() && currentv1==edge.b().index()))
 							containsthisedge = true;
-						else containsthisedge = false;
+						// else containsthisedge = false;
 						interm.push_back(edge.a().index());
 						interm.push_back(edge.b().index());
 						simp2.push_back(interm);
@@ -687,7 +692,7 @@ int main( int argc, char *argv[] )
 				if(loopadded == false)
 				{
 					cout<<"No loop has been added. This is an error";
-					error(0);
+					exit(0);
 				}
 				
 				cout<<"born end";
